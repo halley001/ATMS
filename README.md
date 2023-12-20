@@ -1,8 +1,8 @@
 Before clonning this repository,
 
-Install and configure Laravel and its dependencies, such as Composer, a PHP package manager, and a database server, such as MySQL.https://erico19.github.io/-Attendance_Management_System/
+Install and configure Laravel and its dependencies, such as Composer, a PHP package manager, and a database server, such as MySQL.
 
-Design and create the database tables and models for the system, such as users, courses, schedules, and attendances. You can use Laravel's migration and Eloquent features to make this easier.https://github.com/Ahmad-Chebbo/Students-Attendance-System-V1
+Design and create the database tables and models for the system, such as users, courses, schedules, and attendances. You can use Laravel's migration and Eloquent features to make this easier.
 
 Create the routes and controllers for the system, such as the dashboard, the course management, the attendance management, and the report generation. You can use Laravel's routing and controller features to handle the requests and responses.
 
